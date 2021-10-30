@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalhando com Helpdesk
 - 🌱 Aprendendo C#
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/vyctordepaulo">
