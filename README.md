@@ -1,7 +1,7 @@
 ### Eai bão? Eu sou o Vyctor de Paulo
 
 - 🔭 Atualmente trabalhando com Helpdesk
-- 🌱 Estudando C#
+- 🌱 Aprendendo C#
 - 😄 Pronouns: ele/dele
 
 <div align="center">
