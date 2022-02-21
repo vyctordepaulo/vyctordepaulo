@@ -15,7 +15,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Cowboy-Bepope" height="150" style="border-radius:50px;"src="https://media.discordapp.net/attachments/780951410295570452/904121609470738472/WhatsApp-Video-2021-10-29-at-19.56.17.gif?width=676&height=676">
+  <img align="right" alt="Cowboy-Bepope" height="150" style="border-radius:50px;"src="https://discord.com/channels/@me/625503473395433482/945123497397592115">
 </div>
   
   ##
