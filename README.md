@@ -15,7 +15,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Cowboy-Bepope" height="150" style="border-radius:50px;"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fspike-spiegel&psig=AOvVaw1QOBfM0948EtOpyp1C5Etz&ust=1645491753647000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDh9M7Mj_YCFQAAAAAdAAAAABAD">
+  <img align="right" alt="Cowboy-Bepope" height="150" style="border-radius:50px;"src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
 </div>
   
   ##
