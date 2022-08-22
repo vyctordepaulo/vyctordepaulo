@@ -1,4 +1,4 @@
-### Eai bão? Eu sou o Vyctor de Paulo, e esse é meu git!!!
+### Eai beleza? Eu sou o Vyctor de Paulo, e esse é meu git!!!
 
 - 🔭 Atualmente trabalhando com Helpdesk
 - 🌱 Aprendendo C#
