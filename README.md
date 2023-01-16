@@ -1,6 +1,6 @@
 ### Eai beleza? Eu sou o Vyctor de Paulo, e esse é meu git!!!
 
-- 🔭 Atualmente trabalhando com Helpdesk
+- 🔭 Atualmente em busca de novas oportunidades de emprego
 - 🌱 Aprendendo C#
 
 <div align="center">
