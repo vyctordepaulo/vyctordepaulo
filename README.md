@@ -1,7 +1,7 @@
 ### Eai beleza? Eu sou o Vyctor de Paulo, e esse é meu git!!!
 
 - 🔭 Atualmente em busca de novas oportunidades de emprego
-- 🌱 Aprendendo C#
+- 🌱 Aprendendo React
 
 <div align="center">
   <a href="https://github.com/vyctordepaulo">
