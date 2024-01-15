@@ -1,4 +1,4 @@
-### Eai beleza? Eu sou o Vyctor de Paulo !!!
+### Opa beleza? Eu sou o Vyctor de Paulo !!!
 
 - 🔭 Atualmente em busca de novas oportunidades de emprego
 - 🌱 Aprendendo React
